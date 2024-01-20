@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi 👋 My name is Amanjot Kandhola
+=================================
 
-<!--
-**amanjot-git/amanjot-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about finding insights in data. I love using my skills to help businesses make better decisions. I enjoy collaborating with the data community and am always looking to improve my analytical abilities!
+------------
 
-Here are some ideas to get you started:
+* 🌍 I'm based in Toronto
+* ✉️  You can contact me at [dhillonaman91@hotmail.com](mailto:dhillonaman91@hotmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
