@@ -1,4 +1,6 @@
-Hi 👋 My name is Amanjot Kandhola
+Hi 👋 
+
+My name is Amanjot Kandhola
 =================================
 
 I'm a Data Analyst passionate about finding insights in data. I love using my skills to help businesses make better decisions. I enjoy collaborating with the data community and am always looking to improve my analytical abilities!
