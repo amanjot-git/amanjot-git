@@ -9,8 +9,7 @@ I'm a Data Analyst passionate about finding insights in data. I love using my sk
 ------------
 
 * 🌍 I'm based in Toronto
-* ✉️  You can contact me at [dhillonaman91@hotmail.com](mailto:dhillonaman91@hotmail.com)
-
+* ✉️  You can contact me at my linkedin
 ### Skills
 
 
