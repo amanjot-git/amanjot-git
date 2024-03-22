@@ -2,7 +2,7 @@
 
 **Amanjot Kandhola**
 
-Data Analyst | Python, Pandas, Data Visualization | Taught Coding languages
+Data Analyst | Salesforce, SQL, Python, Pandas, Data Visualization | Taught Coding languages
 
 Masters of Computer Science Engineering - Chitkara University, India
 
