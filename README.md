@@ -1,6 +1,6 @@
 
 
-Amanjot Kandhola
+**Amanjot Kandhola**
 
 Data Analyst | Python, Pandas, Data Visualization | Taught Coding languages
 
