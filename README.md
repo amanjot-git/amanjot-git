@@ -1,11 +1,14 @@
 
 
 Amanjot Kandhola
+
 Data Analyst | Python, Pandas, Data Visualization | Teaching Coding
+
 Masters of Computer Science Engineering - Chitkara University, India
 
 Current job: Data Analyst at Nonprofit Serving Individuals with Visual Impairments
 
+----------
 Hi 👋 
 
 As a data analyst at a nonprofit organization dedicated to supporting individuals with visual impairments, I bring a Bachelor of Engineering in Computer Science from Chitkara University and over 10 years of experience in teaching coding languages and bringing data analytics to the table.
