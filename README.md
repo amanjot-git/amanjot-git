@@ -11,7 +11,7 @@ Current job: Data Analyst at Nonprofit Serving Individuals with Visual Impairmen
 ----------
 Hi 👋 
 
-As a data analyst at a nonprofit organization dedicated to supporting individuals with visual impairments, I bring a Masters of Engineering in Computer Science from Chitkara University and over 10 years of experience in teaching coding languages and bringing data analytics to the table.
+As a data analyst at a nonprofit organization dedicated to supporting individuals with visual impairments, I bring a Masters of Engineering in Computer Science and over 10 years of experience in teaching coding languages and bringing data analytics to the table.
 
 Driven by an insatiable curiosity and a solid foundation in critical thinking, my career has been centered around solving complex problems. I specialize in using SQL and Python for tasks ranging from data collection and wrangling to analysis and visualization, ensuring that insights are not only comprehensive but also accessible to all.
 
