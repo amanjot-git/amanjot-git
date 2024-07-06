@@ -5,7 +5,7 @@
 Data Analyst | Salesforce, SQL, Python, Pandas, Data Visualization | Taught Coding languages
 
 Enrolled in Data Science - University of Waterloo and University of Toronto
-Masters of Computer Science Engineering - Chitkara University, India
+<br>Masters of Computer Science Engineering - Chitkara University, India
 
 Current job: Data Analyst at Nonprofit Serving Individuals with Visual Impairments
 
