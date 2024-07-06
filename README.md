@@ -19,6 +19,8 @@ My commitment to the mission of our organization fuels my desire to stay abreast
 
 In summary, I offer a unique combination of technical expertise, problem-solving skills, and a dedication to serving our community. My proficiency in utilizing the Python data science software ecosystem enables me to provide valuable insights and drive meaningful change through data analysis, visualization, and effective communication.
 
+Currently enrolled in [Data Science program](https://github.com/amanjot-git/data-science-UofT/tree/main) by University of Waterloo and University of Toronto
+
 ------------
 
 * 🌍 I'm based in Toronto
