@@ -23,9 +23,6 @@ Currently enrolled in [Data Science program](https://github.com/amanjot-git/data
 
 ------------
 
-* 🌍 I'm based in Toronto
-* ✉️  You can contact me at my linkedin
-
 ### 🎓My Learning - Experience Journey 
 - [Data Science - University of Toronto and University of Waterloo](https://learn.utoronto.ca/programs-courses/certificates/data-science) ('24)
 - [Google Data Analytics ](https://www.coursera.org/account/accomplishments/specialization/2VM7V2A6ZAS5) ('22)
