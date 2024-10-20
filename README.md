@@ -30,7 +30,7 @@ Currently enrolled in [Data Science program](https://github.com/amanjot-git/data
 
 
 ### 🌱 My latest projects 
-- [Ridership Analysis](https://github.com/amanjot-git/ridership-analysis-TTC)
+- [KNN Classification](https://github.com/amanjot-git/data-science-UofT/blob/main/assignment4_Classification.ipynb)
 - [Credit Risk Analysis ](https://github.com/amanjot-git/credit-risk-analytics/blob/main/Credit%20Risk%20Analysis.ipynb) 
 - [COVID Data Exploration in SQL](https://github.com/amanjot-git/PortfolioProjects/blob/main/Portfolio%20Project%20-%20COVID%20Data%20Exploration%20in%20SQL.sql) - Alex the Analyst Practice Project
 - [Real Estate Data Analytics](https://github.com/amanjot-git/real-estate-data-analytics/blob/main/Real%20Estate%20Data%20Analytics.ipynb)
